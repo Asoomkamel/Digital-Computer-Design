@@ -98,7 +98,7 @@ This project was developed by a dedicated team at **Sana'a University, Faculty o
 For inquiries or collaborations, feel free to reach out:
 
 - **Developer:** Mutasim Al-Kamil
-- **Phone:** [+967 776 725 574](tel:+967776725574)
+- 
 - **LinkedIn:** [Mutasim Al-Kamil](https://www.linkedin.com/in/mutasim-al-kamil-40a299318)
 - **GitHub:** [@Asoomkamel](https://github.com/Asoomkamel)
 
