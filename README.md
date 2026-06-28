@@ -83,7 +83,7 @@ The design has been fully verified through hierarchical simulation. You can find
 ## 👥 Team Members
 This project was developed by a dedicated team at **Sana'a University, Faculty of Engineering**:
 
-- **Mutasim Al-Kamil** ([GitHub](https://github.com/Asoomkamel) | [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a299318))
+- **Mutasim Al-Kamil leader** ([GitHub](https://github.com/Asoomkamel) | [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a299318))
 - **Mamdouh Abdul-Fattah**
 - **Hussein Abdul-Mueen**
 - **Osama Mohammed Moawad**
